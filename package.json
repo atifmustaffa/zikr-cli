@@ -1,0 +1,16 @@
+{
+  "name": "zikr-cli",
+  "version": "1.0.0",
+  "description": "Installs a zikr instruction into Claude Code, Codex CLI, and OpenCode global config",
+  "bin": {
+    "zikr-cli": "bin/zikr.js"
+  },
+  "files": [
+    "bin",
+    "zikr-instruction.md"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT"
+}
