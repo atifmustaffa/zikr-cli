@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Installs a zikr instruction into Claude Code, Codex CLI, and OpenCode global config",
   "bin": {
-    "zikr-cli": "bin/zikr.js"
+    "zikr-cli": "bin/zikr-cli.js"
   },
   "files": [
     "bin",
