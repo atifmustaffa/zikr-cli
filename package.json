@@ -12,5 +12,13 @@
   "engines": {
     "node": ">=16"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atifmustaffa/zikr-cli.git"
+  },
+  "homepage": "https://github.com/atifmustaffa/zikr-cli#readme",
+  "bugs": {
+    "url": "https://github.com/atifmustaffa/zikr-cli/issues"
+  },
   "license": "MIT"
 }
